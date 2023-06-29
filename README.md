@@ -45,20 +45,20 @@ The frontend comprises several components:
 + Clone the repository
 
 Use the following command to clone the repo:  
-+    git clone https://github.com/sebi247/personalFinance
+    + git clone https://github.com/sebi247/personalFinance
 
 ### Backend setup
 
 + Install the required dependencies.
 + Navigate to the root directory of the project and run the application using the following command:
-+   mvn spring-boot:run
+    + mvn spring-boot:run
 
 ### Frontend setup
 
 + Navigate to the frontend directory and install the required dependencies using:
-+    npm install
+    + npm install
 + To start the application, run:
-+    npm start
+    + npm start
 
 
 
