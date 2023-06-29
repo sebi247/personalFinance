@@ -1,5 +1,5 @@
 # PersonalFinance
-PersonalFinance is a comprehensive personal finance management application developed using a Spring Boot backend and a React front end. It allows users to track, manage, and visualize their income, expenses, and investments. The application incorporates a Quartz scheduler for monthly updates and also provides detailed monthly summary reports.
+PersonalFinance is a comprehensive finance management application developed using a Spring Boot backend and a React front end. It allows users to track, manage, and visualize their income, expenses, and investments. The application incorporates a Quartz scheduler for monthly updates and also provides detailed monthly summary reports.
 
 ## Features
 + User Registration and Login.
