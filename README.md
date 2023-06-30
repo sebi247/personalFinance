@@ -45,7 +45,7 @@ The frontend comprises several components:
 + Clone the repository
 
 Use the following command to clone the repo:  
-    + git clone https://github.com/sebi247/personalFinance
++ git clone https://github.com/sebi247/personalFinance
 
 ### Backend setup
 
